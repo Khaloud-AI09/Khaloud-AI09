@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=F5AFAF&height=200&section=header&text=Khaloud%20AI&fontSize=70&animation=fadeIn&fontColor=FCF8F8" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=F5AFAF&height=150&section=header&text=Khaloud%20AI&fontSize=50&fontColor=FCF8F8" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F5AFAF&center=true&vCenter=true&width=435&lines=AI+and+ML+Student+✨;UI/UX+Enthusiast+🌸;Future+Developer+🎀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F5AFAF&center=true&vCenter=true&width=500&lines=AI+and+ML+Student+✨;UI%2FUX+Enthusiast+🌸;Future+Developer+🎀" alt="Typing SVG" />
+  </a>
 </p>
 #  🌸About Me:
 Artificial Intelligence Student!<br>I'm currently invested in Artificial Intelligence, and It's Domains.<br>My MBTI is INFJ, and I enjoy making cute things. <br>
