@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=F5AFAF&height=150&section=header&text=Khaloud%20AI&fontSize=50&fontColor=FCF8F8" />
+  <img src="download(1).jpg" width="100%" alt="Khaloud AI Custom Header">
 </p>
 
 <p align="center">
