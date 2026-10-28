@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="download (1).gif" width="100%" alt="Khaloud AI Custom Header">
+  <img src="678636237603296672.jpg" width="100%" alt="Khaloud AI Custom Header">
 </p>
 
 <p align="center">
